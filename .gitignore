@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# OSX file system
+.DS_Store
+
+# Environment variables loaded via autoenv
+.env
+
+# eslint prefs
+.eslintrc
